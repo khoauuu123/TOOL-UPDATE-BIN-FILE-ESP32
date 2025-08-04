@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPDATE_BIN_FILE_ESP32", "UPDATE_BIN_FILE_ESP32\UPDATE_BIN_FILE_ESP32.csproj", "{34B6F7EB-DF4C-43BB-A83A-F1DEF703E48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B6F7EB-DF4C-43BB-A83A-F1DEF703E48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B6F7EB-DF4C-43BB-A83A-F1DEF703E48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B6F7EB-DF4C-43BB-A83A-F1DEF703E48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B6F7EB-DF4C-43BB-A83A-F1DEF703E48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC2D11F-7D93-4EBF-B1EA-F0180EB0919F}
+	EndGlobalSection
+EndGlobal
